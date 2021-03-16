@@ -1,3 +1,6 @@
+This is a demonstration of Pathfinding Visualizer React project using Dijkstra's and A* search algorithms.
+Enjoy the App here [Pathfinding Visualizer](https://jovial-keller-d126f9.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
